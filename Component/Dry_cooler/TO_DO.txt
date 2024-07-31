@@ -1,0 +1,7 @@
+TO DO LIST:
+
+# Faire un doc explicatif
+# Code propre
+# Faire fonctionner calibration
+# Remplit les point on cycle
+# Ajouter un terme qui prend en compte la radiation pour natural_convection
