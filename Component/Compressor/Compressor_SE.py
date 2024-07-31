@@ -328,9 +328,7 @@ class Compressor_Class:
             self.ex.set_m_dot(self.m_dot)
             self.ex.set_h(self.h_ex)
             self.ex.set_p(self.P_ex)
-            # print(self.ex.h, self.su.h)
-            # print(self.h_su, self.h_su1, self.h_su2, self.h_in, self.h_ex2, self.h_ex1, self.h_ex)
-            # print(self.s_su, self.s_su1, self.s_su2, self.s_in, self.s_ex2, self.s_ex)
+
             self.defined = True
             
             elapsed_time = time.time() - start_time
